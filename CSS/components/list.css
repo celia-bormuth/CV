@@ -1,0 +1,23 @@
+.list {
+    list-style: none;
+}
+
+#links li {
+	display: inline;
+	padding: 0px 20px;
+}
+
+#links a {
+	text-decoration: none;
+	color: #1282a2;
+	font-weight: 700;
+	transition: 0.3s ease;
+}
+#links i {
+	font-size: 40px;
+	color: #1282a2;
+}
+
+#links i:hover {
+	color: #171738;
+}

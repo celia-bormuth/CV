@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Solway:300,400,500,700&display=swap');
+@import url("components/card.css");
+@import url("components/list.css");
+@import url("components/container.css");
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	background-color: #e3f6f5;
+}
+
+h1, h2, h3 { 
+	font-family: 'Solway', serif;
+	font-weight: 700;
+}
+
+a {
+	text-decoration: none;
+}
+
+/*ID*/
